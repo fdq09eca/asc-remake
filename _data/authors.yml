@@ -1,0 +1,31 @@
+Travis Ng:
+  name: "Prof. NG Ka Ho, Travis"
+  bio: |
+    **ERC: Director** <br>
+    **APEC Study Centre: Director**
+  avatar: "https://source.unsplash.com/random/88x88"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:travisng@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=khng"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39438184"
+Michael Fung:
+  name: "Prof. FUNG Ka Yiu, Michael"
+  bio: |
+    **EEP: Director**
+  avatar: "https://www.bschool.cuhk.edu.hk/wp-content/uploads/Fung-Ka-Yiu-Michael-DSE-e1520847232243-300x300.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:michael@baf.msmail.cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.bschool.cuhk.edu.hk/staff/fung-michael-ka-yiu/"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39438184"
