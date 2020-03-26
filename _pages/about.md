@@ -1,10 +1,12 @@
 ---
 permalink: /about/
-class: wide
-title: "About"
+# class: wide
+title: "About ERC"
 toc: true
 toc_label: Economics Research Centre
 toc_icon: "cog"
+author_profile: true
+author: Travis Ng
 header:
   overlay_color: "#000000"
   overlay_image: assets/images/index-hero.jpg
@@ -17,7 +19,19 @@ The Economic Research Centre was established in July 2010. The Centre originated
 
 Members of the Centre include reputable scholars of The Chinese University of Hong Kong and other universities. Many of them have served as advisors in the advisory committees of the government, heads of various academic organizations, and editors/editorial board members of international academic journals.
 
-# Research Programmes
+# Our People
+
+||Name|Position
+:--:|:--:|:--:
+{% for people in site.data.authors %}
+{%- assign person = people[1] -%}
+<img src="{{person.avatar}}" alt="this is a placeholder image" width="80px" height="80px" style="border-radius: 10%;">|[{{ person.name }}](person.links[1].url)|{{ person.bio }}
+{% endfor %}
+
+
+
+
+<!-- # Research Programmes
 
 ## Economic Policy Programme
 
@@ -38,4 +52,4 @@ The aim of the Programme for Economic Education is to promote excellence in econ
 
 ## Trade and Development Programme
 
-The Trade and Development Programme focuses on the causes and consequences of globalization on economic development, inequality, and social welfare. The aim of the Programme is to generate high-quality academic studies and policy reports on international trade and global capital flows, and their impact on labour markets, industrial structures, and economic development. It also emphasizes the rise of China as the world’s factory, and Hong Kong’s status as Asia’s trade centre, as well as policies and issues related to trade and economic growth.
+The Trade and Development Programme focuses on the causes and consequences of globalization on economic development, inequality, and social welfare. The aim of the Programme is to generate high-quality academic studies and policy reports on international trade and global capital flows, and their impact on labour markets, industrial structures, and economic development. It also emphasizes the rise of China as the world’s factory, and Hong Kong’s status as Asia’s trade centre, as well as policies and issues related to trade and economic growth. -->

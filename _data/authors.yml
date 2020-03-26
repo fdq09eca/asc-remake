@@ -1,9 +1,7 @@
 Travis Ng:
-  name: "Prof. NG Ka Ho, Travis"
-  bio: |
-    **ERC: Director** <br>
-    **APEC Study Centre: Director**
-  avatar: "https://source.unsplash.com/random/88x88"
+  name: "Prof. Travis K. H. Ng "
+  bio: "Director"
+  avatar: "/assets/images/people/NG_Ka_Ho_Travis.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -14,10 +12,55 @@ Travis Ng:
     - label: "Contact Number"
       icon: "fas fa-phone"
       url: "tel+852:39438184"
+
+Liu Pak Wai:
+  name: "Prof. Pak-wai Lui"
+  bio: "Co-Director"
+  avatar: "/assets/images/people/LiuPW.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pakwailiu@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=pwliu"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39431616"
+
+Sheng Liugang:
+  name: "Prof Liu-gang Sheng"
+  bio: "Associate Director"
+  avatar: "/assets/images/people/ShengLiugang.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cheungkwok.law@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=lgsheng"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39431397"
+
+Prof Sung:
+  name: "Prof. Yun-wing Sung"
+  bio: "Associate Director"
+  avatar: "/assets/images/people/SUNG_Yun_Wing.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ywsung@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=ywsung"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39438777"
+
 Michael Fung:
-  name: "Prof. FUNG Ka Yiu, Michael"
-  bio: |
-    **EEP: Director**
+  name: "Prof. Michael K. Y. Fung"
+  bio: "Member"
   avatar: "https://www.bschool.cuhk.edu.hk/wp-content/uploads/Fung-Ka-Yiu-Michael-DSE-e1520847232243-300x300.jpg"
   links:
     - label: "Email"
@@ -29,3 +72,93 @@ Michael Fung:
     - label: "Contact Number"
       icon: "fas fa-phone"
       url: "tel+852:39438184"
+
+Chong Tai Leung:
+  name: "Prof. Terence T. L. Chong"
+  bio: "Member"
+  avatar: "/assets/images/people/ChongTL.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chong2064@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39431622"
+
+Wallace Mok:
+  name: "Dr. Wallace K. C. Mok"
+  bio: "Member"
+  avatar: "/assets/images/people/WallaceMok.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wallacemok@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=kcmok"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39438003"
+
+Vinci Chow:
+  name: "Dr. Vinci Y. C. Chow"
+  bio: "Member"
+  avatar: "/assets/images/people/VinciChow.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vincichow@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=ycchow"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+85239434059"
+
+Andrew Yuen:
+  name: "Dr. Andrew C. L. Yuen "
+  bio: "Member"
+  avatar: "/assets/images/people/AndrewYuen.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:andrewyuen@baf.cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.bschool.cuhk.edu.hk/staff/yuen-andrew-chi-lok/"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+85239431968"
+
+Fred Ku:
+  name: "Dr. Fred K. T. Ku "
+  bio: "Member"
+  avatar: "/assets/images/people/FredKu.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fredku@baf.cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.bschool.cuhk.edu.hk/staff/ku-fred-kei-tat/"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+85239431686"
+
+CK Law:
+  name: "Dr Cheung-kwok Law"
+  bio: "Senior Advisor"
+  avatar: "http://www.cuhk.edu.hk/hkiaps/policy_research/imgs/people/Law_ck.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cheungkwok.law@cuhk.edu.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.cuhk.edu.hk/hkiaps/policy_research/people_law_ck.html"
+    - label: "Contact Number"
+      icon: "fas fa-phone"
+      url: "tel+852:39431397"

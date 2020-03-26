@@ -1,7 +1,7 @@
 ---
 title: Welcome to {{ page.title_variable }}
 title_variable: example
-author: Michael Fung
+author: Travis Ng
 ---
 
 # Welcome to {{ title | liquify }}!
