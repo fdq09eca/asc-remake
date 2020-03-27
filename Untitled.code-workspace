@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "asc-remake",
+			"path": "."
+		}
+	],
+	"settings": {
+		"[markdown]": {
+			"editor.quickSuggestions": true
+		}
+	}
+	
+}
