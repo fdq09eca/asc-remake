@@ -60,22 +60,24 @@ plugins:
   - jekyll-liquify
 
 author:
-  name: "First Lastname"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  name: "Economic Research Centre"
+  location: "516-ELB, CUHK"
+  avatar: "/assets/images/CUHK_logo.png"
+  bio: "Part of HKIAPS, CUHK"
   links:
-    - label: "Website"
+    - label: "Official website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.cuhk.edu.hk/hkiaps/erc/"
+    - label: "EconRC@cuhk.edu.hk"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:EconRC@cuhk.edu.hk"
+    - label: "(852) 3943 6762"
+      icon: "fas fa-phone"
+      url: "tel:+85239436762"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/Economic-Research-Centre-500334206838357/"
+
 
 footer:
   links:
@@ -108,6 +110,44 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _programmes:
+  - scope:
+      path: "_programmes"
+      type: programmes
+    values:
+      layout: single
+      header:
+        overlay_image: /assets/images/index-rp.jpg
+        overlay_filter: 0.5
+      author_profile: true
+      toc: true
+      share: true
+      related: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publications
+    values:
+      layout: single
+      header:
+        overlay_image: /assets/images/index-pub.jpg
+        overlay_filter: 0.5
+        actions:
+          - label: '<i class="fas fa-download"></i> Download'
+            url: "#test"
+      author_profile: true
+      toc: true
+      share: true
+      related: true
+      excerpt: 'Default excerpt'
+      sidebar:
+        - title: "Title"
+          image: http://placehold.it/350x250
+          image_alt: "image"
+          text: "Some text here."
+        - title: "Another Title"
+          text: "More text here."
+        
 
 category_archive:
   type: liquid
@@ -115,6 +155,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  programmes:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  
 
 kramdown:
   input: GFM

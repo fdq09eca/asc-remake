@@ -6,10 +6,10 @@ toc: true
 toc_label: Economics Research Centre
 toc_icon: "cog"
 author_profile: true
-author: Travis Ng
+# author: Travis Ng
 header:
   overlay_color: "#000000"
-  overlay_image: assets/images/index-hero.jpg
+  overlay_image: assets/images/erc-about.jpg
   overlay_filter: 0.5
 ---
 
@@ -29,6 +29,18 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 {% endfor %}
 
 
+# Contact Us
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.4012620095523!2d114.2064284154815!3d22.413918144423786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404089dde4ca0f5%3A0xfe9175be16d897fb!2sEsther%20Lee%20Building%2C%20Chung%20Chi%20College!5e0!3m2!1sen!2shk!4v1585296745851!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+Economic Research Centre<br>
+Hong Kong Institute of Asia-Pacific Studies<br>
+The Chinese University of Hong Kong<br>
+Shatin, New Territories, Hong Kong<br>
+
+Phone: (852) 3943 6762<br>
+Fax: (852) 2603 5215<br>
+Email: EconRC@cuhk.edu.hk.<br>
 
 
 <!-- # Research Programmes
