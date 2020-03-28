@@ -61,7 +61,7 @@ Prof Sung:
 Michael Fung:
   name: "Prof. Michael K. Y. Fung"
   bio: "Member"
-  avatar: "https://www.bschool.cuhk.edu.hk/wp-content/uploads/Fung-Ka-Yiu-Michael-DSE-e1520847232243-300x300.jpg"
+  avatar: "/assets/images/people/Michael_Fung.jpg"
   links:
     - label: "michael@baf.msmail.cuhk.edu.hk"
       icon: "fas fa-fw fa-envelope-square"
@@ -151,7 +151,7 @@ Fred Ku:
 CK Law:
   name: "Dr Cheung-kwok Law"
   bio: "Senior Advisor"
-  avatar: "http://www.cuhk.edu.hk/hkiaps/policy_research/imgs/people/Law_ck.jpg"
+  avatar: "/assets/images/people/Law_ck.jpg"
   links:
     - label: "cheungkwok.law@cuhk.edu.hk"
       icon: "fas fa-fw fa-envelope-square"
