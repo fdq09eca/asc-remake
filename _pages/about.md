@@ -25,7 +25,7 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 :--:|:--:|:--:
 {% for people in site.data.authors %}
 {%- assign person = people[1] -%}
-<img src="{{person.avatar}}" alt="this is a placeholder image" width="80px" height="80px" style="border-radius: 10%;">|[{{ person.name }}](person.links[1].url)|{{ person.bio }}
+<img src="{{site.baseurl}}{{person.avatar}}" alt="{{person.name}}" width="80px" height="80px" style="border-radius: 10%;">|[{{ person.name }}](person.links[1].url)|{{ person.bio }}
 {% endfor %}
 
 

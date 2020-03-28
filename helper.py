@@ -30,9 +30,9 @@ def gen_pub_col():
     r_pubs = [raw_title for raw_title in raw_titles]
     for r_pub in r_pubs:
         f_pub = title(r_pub).format()
-        target_path = os.path.join(_publications, f_pub.replace(" ","-")).lower() + '.md'
+        md_file = os.path.join(_publications, f_pub.replace(" ","-")).lower() + '.md'
         ## pdf2img for the 1st page for pub in os.path.join(pubs_dir, r_pub)
-        with open(target_path, "w") as md:
+        with open(md_file, "w") as md:
             front_matter = f'''---
 title: {f_pub}
 date: 2020-01-01
@@ -40,9 +40,11 @@ excerpt: |
   by authors
   work-paper-?
 sidebar:
-  - image: http://placehold.it/350x500
+  - image: 'assets/images/{r_pub}.jpg'
     image_alt: '{r_pub}'
 header:
+#   teaser: 'assets/images/{r_pub}.jpg'
+  og_image: 'assets/images/{r_pub}.jpg'
   actions:
     - url: '{os.path.join(pubs_dir, r_pub)}.pdf'
 ---
@@ -50,9 +52,22 @@ header:
 Abstract here.
         '''
             md.write(front_matter)
-            print(f'''Wrote frontmatter to {target_path}''')
+            print(f'''Wrote frontmatter to {md_file}''')
 
 gen_pub_col()
+
+from pdf2image import convert_from_path
+# publication_folder = ROOT_DIR+'/static/download/publications/'
+img_pub_folder = '/Users/macone/Documents/asc-remake/assets/images'
+for file in os.listdir(pubs_dir):
+    cover = convert_from_path(pdf_path=os.path.join(
+        pubs_dir, file), dpi=100, first_page=1, last_page=1, size=(350,500))[0]
+    file_path = os.path.join(img_pub_folder, os.path.splitext(file)[0]+'.jpg')
+    if os.path.exists(file_path):
+        os.remove(file_path)
+        print(f'{file} deleted.')
+    cover.save(file_path, 'JPEG')
+    print(f'{file} saved at {file_path}')
 
 # class jekyll:
 #     def __init__(self):
@@ -89,7 +104,7 @@ gen_pub_col()
 #             '''
 #             _config = _config.insert(collection_section, content)
 
-gen_pub_col()
+
 
 # class jekyll:
 #     def __init__(self):

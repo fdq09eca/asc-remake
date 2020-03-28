@@ -1,15 +1,15 @@
 ---
 title: Fashion Design SME in GVC
-catrgories: 
-  - others
-  - publication
+date: 2020-01-01
 excerpt: |
   by authors
   work-paper-?
 sidebar:
-  - image: http://placehold.it/350x500
+  - image: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
     image_alt: 'Fashion_Design_SME_in_GVC'
 header:
+#   teaser: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
+  og_image: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
   actions:
     - url: 'assets/pub_files/Fashion_Design_SME_in_GVC.pdf'
 ---
