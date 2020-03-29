@@ -11,7 +11,8 @@ header:
 #   teaser: 'assets/images/Air_Connectivity_in_APEC_Development_and_Challenges.jpg'
   og_image: 'assets/images/Air_Connectivity_in_APEC_Development_and_Challenges.jpg'
   actions:
-    - url: 'assets/pub_files/Air_Connectivity_in_APEC_Development_and_Challenges.pdf'
+    - label: '<i class="fas fa-download"></i> Download'
+      url: 'assets/pub_files/Air_Connectivity_in_APEC_Development_and_Challenges.pdf'
 ---
 # Abstract
 Abstract here.

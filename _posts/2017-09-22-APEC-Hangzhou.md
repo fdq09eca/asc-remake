@@ -6,9 +6,8 @@ categories:
   - event
   - msme
 image: "/images/asc_hz_cover.JPG"
-author_staff_member: TH
 ---
-Dr Law Cheung Kwok, Co-director of APEC Study Centre, participated in a confernece and presented a paper: "Policy for Promoting MSMEs Modernization towards Industry 4.0 in Hong Kong, China"
+Dr Law Cheung Kwok, Co-director of APEC Study Centre, participated in a conference and presented a paper: "Policy for Promoting MSMEs Modernization towards Industry 4.0 in Hong Kong, China"
 
 ![asc_ck1]({{ site.url }}/images/asc_ck1.JPG)
 

@@ -11,7 +11,8 @@ header:
 #   teaser: 'assets/images/Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions.jpg'
   og_image: 'assets/images/Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions.jpg'
   actions:
-    - url: 'assets/pub_files/Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions.pdf'
+    - label: '<i class="fas fa-download"></i> Download'
+      url: 'assets/pub_files/Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions.pdf'
 ---
 # Abstract
 Abstract here.

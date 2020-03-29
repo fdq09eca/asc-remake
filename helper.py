@@ -46,7 +46,8 @@ header:
 #   teaser: 'assets/images/{r_pub}.jpg'
   og_image: 'assets/images/{r_pub}.jpg'
   actions:
-    - url: '{os.path.join(pubs_dir, r_pub)}.pdf'
+    - label: '<i class="fas fa-download"></i> Download'
+      url: '{os.path.join(pubs_dir, r_pub)}.pdf'
 ---
 # Abstract
 Abstract here.

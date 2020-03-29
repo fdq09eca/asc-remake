@@ -130,9 +130,9 @@ defaults:
       header:
         overlay_image: /assets/images/index-pub.jpg
         overlay_filter: 0.5
-        actions:
-          - label: '<i class="fas fa-download"></i> Download'
-            url: "#test"
+        # actions:
+        #   - label: '<i class="fas fa-download"></i> Download'
+        #     url: "#test"
       author_profile: true
       toc: true
       share: true

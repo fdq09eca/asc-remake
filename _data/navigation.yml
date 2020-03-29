@@ -1,12 +1,12 @@
 main:
-  - title: "Activities"
-    url: /activities/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "APEC Study Centre"
+    url: /asc/
+  # - title: "Latest News"
+  #   url: /activities/
+  - title: "Publications"
+    url: /publications/
 
 main_2:
   - title: "Activities_2"

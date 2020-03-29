@@ -11,7 +11,8 @@ header:
 #   teaser: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
   og_image: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
   actions:
-    - url: 'assets/pub_files/Fashion_Design_SME_in_GVC.pdf'
+    - label: '<i class="fas fa-download"></i> Download'
+      url: 'assets/pub_files/Fashion_Design_SME_in_GVC.pdf'
 ---
 # Abstract
 Abstract here.
