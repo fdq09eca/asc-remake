@@ -151,7 +151,7 @@ Fred Ku:
 CK Law:
   name: "Dr Cheung-kwok Law"
   bio: "Senior Advisor"
-  avatar: "http://www.cuhk.edu.hk/hkiaps/policy_research/imgs/people/Law_ck.jpg"
+  avatar: "/assets/images/people/Law_ck.jpg"
   links:
     - label: "cheungkwok.law@cuhk.edu.hk"
       icon: "fas fa-fw fa-envelope-square"
