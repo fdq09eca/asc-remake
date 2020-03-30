@@ -4,7 +4,8 @@ layout: collection
 permalink: /publications/
 collection: publications
 entries_layout: list
-classes: wide
+classes: 
+  - wide
 sort_by: date
 sort_order: reverse
 author_profile: true

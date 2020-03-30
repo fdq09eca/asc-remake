@@ -64,7 +64,6 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 <!-- # Research Programmes
 
 ## Economic Policy Programme
-
 Programme Director: CK Law
 {: .text-right}
 
