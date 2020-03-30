@@ -2,8 +2,7 @@
 title: Hong Kong Startups Ecosystem Technology and GBA Interactions
 date: 2020-01-01
 excerpt: |
-  by authors
-  work-paper-?
+  by Cheung-kwok Law and Chung-Yi Lam
 sidebar:
   - image: 'assets/images/Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions.jpg'
     image_alt: 'Hong_Kong_Startups_Ecosystem_Technology_and_GBA_Interactions'

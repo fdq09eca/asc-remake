@@ -7,8 +7,8 @@ description: ""
 toc: true
 tags:
   - event
-  - msme
-  - fashion_design
+  - MSME
+  - ASCCC
 categories:
   - APEC Study Centre
 image: "/images/asc_cover.jpg"

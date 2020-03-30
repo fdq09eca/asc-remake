@@ -2,7 +2,7 @@
 title: Entrepreneurship in APEC and Hong Kong
 date: 2020-01-01
 excerpt: |
-  by authors
+  by Cheung-kwok Law, Michael K.Y. Fung, Michael C.M. Leung and Ting-hin Yan
   work-paper-?
 sidebar:
   - image: 'assets/images/Entrepreneurship_in_APEC_and_Hong_Kong.jpg'

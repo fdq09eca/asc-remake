@@ -2,8 +2,7 @@
 title: Policy for Promoting Msmes Modernization Towards Industry 4.0
 date: 2020-01-01
 excerpt: |
-  by authors
-  work-paper-?
+  by Cheung-kwok Law and Michael C.M. Leung
 sidebar:
   - image: 'assets/images/Policy_for_Promoting_MSMEs_Modernization_towards_Industry_4.0.jpg'
     image_alt: 'Policy_for_Promoting_MSMEs_Modernization_towards_Industry_4.0'
