@@ -18,7 +18,7 @@ subtitle: The Chinese University of Hong Kong
 email: econrc@cuhk.edu.hk
 description: ERC, CUHK
 # twitter_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 repository: "fdq09eca/asc-remake"
 # Build settings
