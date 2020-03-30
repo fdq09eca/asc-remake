@@ -77,15 +77,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "ERC, HKIAPS, ELB, CUHK"
+      icon: "fas fa-map-marker-alt"
+      url: "https://goo.gl/maps/EWQ1o6ym7cKarpis8"
+    - label: "EconRC@cuhk.edu.hk"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:EconRC@cuhk.edu.hk"
+    - label: "(852) 3943 6762"
+      icon: "fas fa-phone"
+      url: "tel:+85239436762"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/Economic-Research-Centre-500334206838357/"
 
 defaults:
   # _posts
