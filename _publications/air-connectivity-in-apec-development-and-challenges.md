@@ -1,7 +1,7 @@
 ---
 title: Air Connectivity in APEC Development and Challenges
 date: 2020-01-01
-excerpt: "by Clement K.W. Chow, Cheung-kwok Law, Michael C.M. Leung, Michael K.Y. Fung, An- drew C.L. Yuen and Ting-hin Yan"
+excerpt: "by Clement K.W. Chow, Cheung-kwok Law, Michael C.M. Leung, Michael K.Y. Fung, Andrew C.L. Yuen and Ting-hin Yan"
 sidebar:
   - image: 'assets/images/Air_Connectivity_in_APEC_Development_and_Challenges.jpg'
     image_alt: 'Air_Connectivity_in_APEC_Development_and_Challenges'
