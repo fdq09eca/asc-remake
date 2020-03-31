@@ -4,7 +4,6 @@ permalink: /about/
 title: "About ERC"
 toc: true
 toc_label: Economics Research Centre
-toc_icon: "cog"
 author_profile: true
 # author: Travis Ng
 header:
