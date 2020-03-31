@@ -8,12 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-main_2:
-  - title: "Activities_2"
-    url: /activities/
-  - title: "Categories_2"
-    url: /categories/
-  - title: "Tags_2"
-    url: /tags/
-  - title: "About_2"
-    url: /about/
+# main_2:
+#   - title: "Activities_2"
+#     url: /activities/
+#   - title: "Categories_2"
+#     url: /categories/
+#   - title: "Tags_2"
+#     url: /tags/
+#   - title: "About_2"
+#     url: /about/
