@@ -17,6 +17,7 @@ title: Economic Research Centre
 subtitle: The Chinese University of Hong Kong
 email: econrc@cuhk.edu.hk
 description: ERC, CUHK
+locale: "en-US"
 # twitter_username: username
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true

@@ -15,8 +15,10 @@ header:
 # The Centre
 
 The Economic Research Centre was established in July 2010. The Centre originated from the upgrading of its predecessor, the Hong Kong and Asia-Pacific Economies Programme, which had been part of the Hong Kong Institute of Asia-Pacific Studies since its inception in 1990. The mission of the Centre is to promote research and stimulate policy discussions on economic issues involving Hong Kong, Greater China, and the Asia-Pacific region. The Centre holds international conferences, seminars, and forums on relevant topics.
+{: .text-justify}
 
 Members of the Centre include reputable scholars of The Chinese University of Hong Kong and other universities. Many of them have served as advisors in the advisory committees of the government, heads of various academic organizations, and editors/editorial board members of international academic journals.
+{: .text-justify}
 
 # Our People
 
@@ -51,10 +53,10 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.4012620095523!2d114.2064284154815!3d22.413918144423786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404089dde4ca0f5%3A0xfe9175be16d897fb!2sEsther%20Lee%20Building%2C%20Chung%20Chi%20College!5e0!3m2!1sen!2shk!4v1585296745851!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
 <ul style="list-style: none; padding-inline-start: 0;">
-  Economic Research Centre<br>
+  <li>Economic Research Centre<br>
   Hong Kong Institute of Asia-Pacific Studies<br>
   The Chinese University of Hong Kong<br>
-  Shatin, New Territories, Hong Kong<br>
+  Shatin, New Territories, Hong Kong<br></li>
   <li>Phone: <a href="tel:+85239436762">(852) 3943 6762</a></li>
   <li>Fax: (852) 2603 5215</li>
   <li>Email: <a href="mailto:EconRC@cuhk.edu.hk">EconRC@cuhk.edu.hk</a></li>
