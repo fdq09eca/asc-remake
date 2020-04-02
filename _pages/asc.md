@@ -53,9 +53,9 @@ human_development:
 msme:
   - image_path: /assets/old_images/vic_h.jpg
     alit: "Development of Micro Small and Medium Enterprises in APEC Countries"
-    title: "Development of Micro Small and Medium Enterprises in APEC Countries"
+    title: "Development of MSMEs in APEC Countries"
     excerpt: |
-        Small and medium enterprises (SMEs) account for 98% of firms and 50% of employment in Hong Kong. The Hong Kong Government has a long history of providing supports to the development of SMEs. In 1960, the Hong Kong Government established the Hong Kong Export Credits Insurance Corporation, followed by the Trade Development Council and Hong Kong Productivity Council in 1966. These are statutory organizations providing financial, market information, technology and management services to SMEs.
+        Micro Small and medium enterprises (MSMEs) account for 98% of firms and 50% of employment in Hong Kong. The Hong Kong Government has a long history of providing supports to the development of SMEs. In 1960, the Hong Kong Government established the Hong Kong Export Credits Insurance Corporation, followed by the Trade Development Council and Hong Kong Productivity Council in 1966. These are statutory organizations providing financial, market information, technology and management services to SMEs.
         {: .text-justify}
 
         Since 1997, the Hong Kong Government has established many specific schemes to support the development of SMEs in Hong Kong. Each of these schemes is designated to meet different business needs, such as guarantee for bank loans, sponsorship for export marketing activities, funding for SMEs’ development projects, and commercialization of innovation and technology projects. Recognizing the increasing economic importance of MSMEs, our proposed activities would provide valuable knowledge in assisting the government’s continuing MSMEs policy efforts.
