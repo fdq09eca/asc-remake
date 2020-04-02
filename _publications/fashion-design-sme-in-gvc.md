@@ -2,7 +2,7 @@
 title: Fashion Design SME in GVC
 date: 2020-01-01
 excerpt: |
-  by Prof. Michael FUNG, Dr Bruce Erik BERGSTROM, Prof. Stephen CHIU, Dr Fred KU, Dr CK LAW, Prof. Bernard SUEN, Dr Andrew YUEN
+  by Prof. Michael Fung, Dr Bruce Erik Bergstrom, Prof. Stephen Chiu, Dr Fred Ku, Dr Ck Law, Prof. Bernard Suen, Dr Andrew Yuen
 sidebar:
   - image: 'assets/images/Fashion_Design_SME_in_GVC.jpg'
     image_alt: 'Fashion_Design_SME_in_GVC'
