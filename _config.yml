@@ -64,7 +64,7 @@ author:
   links:
     - label: "Official website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.cuhk.edu.hk/hkiaps/erc/"
+      url: "https://erc.cuhk.edu.hk"
     - label: "EconRC@cuhk.edu.hk"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:EconRC@cuhk.edu.hk"
