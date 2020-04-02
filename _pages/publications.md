@@ -17,11 +17,12 @@ gallery:
     image_path: /assets/images/publications/AEA.jpg
     alt: AEA
     title: Asian Economic Association
+sidebar:
+  - title:
+    text: |
+      The Centre is a core member of the [Asian Economic Association](http://www.eaeaweb.com/). Founded in 1987, it was the first international academic organization to focus on the economies of East Asia. Our Centre served as the Secretariat of the Association. Since 1990, our Centre has jointly published the Association’s Asian Economic Journal together with our partner in Japan. The ISI has accepted the Journal for coverage in 2008.
+      {: .text-justify}
 ---
-The Centre is a core member of the [Asian Economic Association](http://www.eaeaweb.com/). Founded in 1987, it was the first international academic organization to focus on the economies of East Asia. Our Centre served as the Secretariat of the Association. Since 1990, our Centre has jointly published the Association’s Asian Economic Journal together with our partner in Japan. The ISI has accepted the Journal for coverage in 2008.
-{: .text-justify}
-
-{% include gallery caption="The Centre is a core member of the Asian Economic Association." %}
 
 # Recent Publications
 

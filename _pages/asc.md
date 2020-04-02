@@ -66,10 +66,9 @@ msme:
 ---
 # Our Centre
 
-Established in 2016 and hosted by Economic Research Centre, Asia Pacific Economic Cooperation Study Centre is commissioned by Hong Kong Trade and Industry Department for a 5-year research project of the APEC members with respect to 4 themes, see below. The Centre frequently holds international conferences or seminars and invites reputable scholars and experts to discuss different APEC topics. The Centre expects its research results could further understand the potentials and success elements of APEC and contribute to providing more reliable data and information for policy formulation.
+Established in 2016 and hosted by Economic Research Centre, Asia Pacific Economic Cooperation Study Centre is commissioned by Hong Kong Trade and Industry Department for a 5-year research project of the APEC members with respect to 4 themes. The Centre frequently holds international conferences or seminars and invites reputable scholars and experts to discuss different APEC topics. The Centre expects its research results could further understand the potentials and success elements of APEC and contribute to providing more reliable data and information for policy formulation.
 {: .text-justify}
 
-# Project Themes
 
 {% include feature_row id="aviation" type="right" %}
 
