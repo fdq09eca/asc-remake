@@ -87,9 +87,9 @@ footer:
     - label: "(852) 3943 6762"
       icon: "fas fa-phone"
       url: "tel:+85239436762"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/Economic-Research-Centre-500334206838357/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook"
+    #   url: "https://www.facebook.com/Economic-Research-Centre-500334206838357/"
 
 defaults:
   # _posts

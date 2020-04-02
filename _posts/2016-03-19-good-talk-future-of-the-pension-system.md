@@ -12,6 +12,9 @@ excerpt: |
 header:
   overlay_image: https://www.cuhk.edu.hk/hkiaps/erc/images/goodtalk-poster.jpg
   overlay_filter: 0.5
+sidebar:
+  - title: GoodTalk
+    text: <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgoodtalk-775577579147815%2F&tabs=timeline&width=250&height=300&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="250" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 #   - overlay_filter: 0.5
 ---
 
