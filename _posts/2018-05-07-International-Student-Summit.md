@@ -1,13 +1,14 @@
 ---
 title: International Student Summit 2018
 date: 2018-05-10
-description: ""
 categories:
   - APEC Study Centre
   - Human Capital development
 tags:
   - event
   - ISS 2018
+excerpt: |
+  International Student Summit aims to bring together high schools and universities from different economies, deepen understanding each others themes and exchanging ideas so as to foster global perspectives and partnerships.
 ---
 {% include figure image_path="/assets/old_images/ISS_052018.jpg" %}
 APEC Study Centre hosted an International Student Summit (ISS) from 10 May 2018 12 May 2018 for elite students from different countries. It aims to bring together high schools and universities from different economies, deepen understanding each others themes and exchanging ideas so as to foster global perspectives and partnerships.

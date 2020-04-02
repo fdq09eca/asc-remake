@@ -1,5 +1,5 @@
 ---
-title: Papua New Guinea APEC Study Centre Consortium Conference
+title: APEC Study Centre Consortium Conference 2018
 date: 2018-05-14
 excer[t: Exchange knowledges and ideas regarding different topics such as Innovation and Technology, Digitalisation, Regional Economic Integration and Connectivity and the potential policy under APEC 2018 theme.
 categories:
