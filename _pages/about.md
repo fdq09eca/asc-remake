@@ -2,6 +2,7 @@
 permalink: /about/
 # class: wide
 title: "About ERC"
+tagline: "Research + Knowledge Transfer"
 toc: true
 toc_label: Economics Research Centre
 author_profile: true
@@ -28,7 +29,6 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 {%- assign person = people[1] -%}
 ![{{person.name}}]({{person.avatar | relative_url}}){: width="80px" height="80px" style="border-radius: 10%;"}|[{{ person.name }}]({{person.links[1].url}})|{{ person.bio }}
 {% endfor %}
-
 <!-- <img src="{{ person.avatar }}" alt="{{person.name}}" width="80px" height="80px" style="border-radius: 10%;"> -->
 
 # Contact Us
