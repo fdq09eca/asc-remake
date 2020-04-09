@@ -33,10 +33,14 @@ gallery:
 # Objectives
 
 The Economic Policy Programme focuses on economic policy issues involving Hong Kong, Greater China and Asia-Pacific. Current research projects cover industrial and competition policies of Hong Kong, and aviation and micro-small-medium enterprises (MSME) policies of Asia-Pacific.
+{: .text-justify}
 
 # Programme Director's biography
+
 Dr. Cheung-kwok Law is the Director of Economic Policy Programme of the Economic Research Centre, Director of Aviation Policy and Research Centre, and Senior Research Fellow of the Global China Research Programme of the Chinese University of Hong Kong. He served as the Senior Researcher of the Fung Global Institute, Regional Research Director of Bankers Trust Securities, Senior Economist of HSBC and the Hong Kong Government previously.  Currently, he is a Member of the Working Group on Transportation of the Economic Development Commission of the HKSAR Government, and was a Member of the Chinese People’s Political Consultative Conference (1994-2012) and the Hong Kong’s Legislative Council (1995-1998).
+{: .text-justify}
 
 Dr. Law received his Bachelor Degree (Economics) from the Chinese University of Hong Kong, Master Degree of Economics from Thammasat University (Thailand) and Ph.D. (Economics) from University of California (Los Angeles).  His recent publications (as co-author) include: (i) RMB Rising: A New Global Monetary System Emerges, Wiley, 2016; (ii) China’s Evolving Growth Model: The Foshan Story, Kindle edition, 2015; and (iii) Hong Kong Industrial Policy:  Theory and Practices (in Chinese), SynergyNet, 2014.
+{: .text-justify}
 
 {% include gallery caption="Selected Dr Law's publication " %}
