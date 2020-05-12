@@ -11,4 +11,4 @@ This site is powered by [Github](https://github.com/), [Jekyll](https://jekyllrb
 ## Further development
 
 - Include [Jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) in the publication, see [here](https://www.amirasiaee.com/dailyreport/jekyll-scholar/) for introduction and [here](https://www.amirasiaee.com/publicationbyyear/) for demo.
-- Develop [Netlify CMS](https://www.netlifycms.org/) (the whole point of hosting on [netlify](https://www.netlify.com/)!) for non-technical maintainer in the future, see [here](https://www.netlifycms.org/docs/jekyll/#header) for official documentation, and [here](https://www.youtube.com/watch?v=Qb8rxouArIg&list=PLWjCJDeWfDdcU8zbZZrr6L1zpf_2Eqt_w) for YouTube tutorial.
+- Develop [Netlify CMS](https://www.netlifycms.org/) (the whole point of hosting on [netlify](https://www.netlify.com/)!) for non-technical maintainer in the future, see official documentation [here](https://www.netlifycms.org/docs/jekyll/#header), and YouTube tutorial [here](https://www.youtube.com/watch?v=Qb8rxouArIg&list=PLWjCJDeWfDdcU8zbZZrr6L1zpf_2Eqt_w).
