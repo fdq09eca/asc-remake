@@ -13,17 +13,17 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Layout", name: "layout", widget:"hidden", default: "post" }
-      - { label: "Title", name: "title", widget:"string" }
-      - { label: "Publish Date", name: "date", widget:"datetime" }
-      - { label: "Body", name: "body", widget:"markdown" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "read_time",
           name: "read_time",
           default: "true",
           widget: "boolean",
         }
-      - { label: "share", name: "share", default:"true", widget: "boolean" }
+      - { label: "share", name: "share", default: "true", widget: "boolean" }
       - {
           label: "related",
           name: "related",
@@ -35,4 +35,11 @@ collections:
           name: "author_profile",
           default: "true",
           widget: "boolean",
+        }
+      - { label: "tags", name: "tags", widget: "list", default: ["others"] }
+      - {
+          label: "categories",
+          name: "categories",
+          widget: "list",
+          default: ["APEC Study Centre"],
         }
