@@ -30,6 +30,7 @@ collections:
       - label: "sidebar"
         name: "sidebar"
         widget: "list"
+        required: false
         fields:
           - {
               label: "image",
