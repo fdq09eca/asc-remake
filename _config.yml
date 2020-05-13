@@ -163,7 +163,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  - name: "blog"
+  name: "blog"
     label: "Blog"
     folder: "_posts/"
     create: true
