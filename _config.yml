@@ -19,7 +19,7 @@ email: econrc@cuhk.edu.hk
 description: ERC, CUHK
 locale: "en-US"
 # twitter_username: username
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 repository: "fdq09eca/asc-remake"
 # Build settings
@@ -74,7 +74,6 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook"
     #   url: "https://www.facebook.com/Economic-Research-Centre-500334206838357/"
-
 
 footer:
   links:
@@ -141,7 +140,7 @@ defaults:
       toc: true
       share: true
       related: true
-      excerpt: 'Default excerpt'
+      excerpt: "Default excerpt"
       sidebar:
         - title: "Title"
           image: http://placehold.it/350x250
@@ -149,7 +148,6 @@ defaults:
           text: "Some text here."
         - title: "Another Title"
           text: "More text here."
-        
 
 category_archive:
   type: liquid
@@ -165,7 +163,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  
 
 kramdown:
   input: GFM
@@ -176,3 +173,17 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Layout", name: "layout", widget:"hidden", default: "post" }
+      - { label: "Title", name: "title", widget:"string" }
+      - { label: "Publish Date", name: "date",widget: "datetime" }
+      - { label: "Body", name: "body", widget:"markdown" }
