@@ -5,8 +5,19 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/images'
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
     fields:
-      - { name: Title }
+      - { label: "Layout", name: "layout",widget:"hidden", default: "post" }
+      - { label: "Title", name: "title",widget:"string" }
+      - { label: "Publish Date", name: "date",  widget:"datetime" }
+      - { label: "Body", name: "body",widget:"markdown" }
+      - { label: "author_profile",  name:"author_profile", default: "true",  widget:"boolean"}
+      - { label: "read_time", name: "read_time",default:  "true", widget: "boolean"}
+      - { label: "share", name: "share", default:"true",  widget: "boolean"}
+      - { label: "re", name: "re", default: "true",widget: "boolean"}
