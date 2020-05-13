@@ -20,20 +20,15 @@ collections:
       - {
           label: "read_time",
           name: "read_time",
-          default: "true",
+          default: true,
           widget: "boolean",
         }
-      - { label: "share", name: "share", default: "true", widget: "boolean" }
-      - {
-          label: "related",
-          name: "related",
-          default: "true",
-          widget: "boolean",
-        }
+      - { label: "share", name: "share", default: true, widget: "boolean" }
+      - { label: "related", name: "related", default: true, widget: "boolean" }
       - {
           label: "author_profile",
           name: "author_profile",
-          default: "true",
+          default: true,
           widget: "boolean",
         }
       - { label: "tags", name: "tags", widget: "list", default: ["others"] }
