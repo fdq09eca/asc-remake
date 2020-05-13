@@ -163,6 +163,22 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Layout", name: "layout",widget:"hidden", default: "post" }
+      - { label: "Title", name: "title",widget:"string" }
+      - { label: "Publish Date", name: "date",  widget:"datetime" }
+      - { label: "Body", name: "body",widget:"markdown" }
+      - { label: "author_profile",  name:"author_profile", default: "true",  widget:"boolean"}
+      - { label: "read_time", name: "read_time",default:  "true", widget: "boolean"}
+      - { label: "share", name: "share", default:"true",  widget: "boolean"}
+      - { label: "re", name: "re", default: "true",widget: "boolean"}
 
 kramdown:
   input: GFM
@@ -173,21 +189,3 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "_posts/"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: "Layout", name: "layout", widget:"hidden", default: "post" }
-      - { label: "Title", name: "title", widget:"string" }
-      - { label: "Publish Date", name: "date",widget: "datetime" }
-      - { label: "Body", name: "body", widget:"markdown" }
-      - { label: "author_profile", name: "author_profile", default: "true", widget: "boolean"}
-      - { label: "read_time", name: "read_time", default: "true", widget: "boolean"}
-      - { label: "share", name: "share", default: "true", widget: "boolean"}
-      - { label: "related", name: "related", default: "true", widget: "boolean"}
