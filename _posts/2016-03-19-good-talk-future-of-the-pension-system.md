@@ -21,4 +21,4 @@ sidebar:
       scrolling="no" frameborder="0" allowTransparency="true"
       allow="encrypted-media"></iframe>
 ---
-Economics 3.0 and the HKIAPS jointly organised the “GoodTalk” show in March 2016, a free public talk series where speakers from a variety of backgrounds are invited to discuss salient economic issues. The theme of the talk was *“Future of the Pension System”* where the speaker panel was composed of 2 government officials, 2 political party members and 4 academics. The talk was well-received with an audience size of close to 200.
+Economics 3.0 and the HKIAPS jointly organised the “GoodTalk” show in March 2016, a public talk series where speakers from a variety of backgrounds are invited to discuss salient economic issues. The theme of the talk was *“Future of the Pension System”* where the speaker panel was composed of 2 government officials, 2 political party members and 4 academics. The talk was well-received with an audience size of close to 200.
