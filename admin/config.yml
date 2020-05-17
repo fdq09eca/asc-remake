@@ -12,7 +12,7 @@ collections:
     label: "Blog"
     folder: "_posts/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: /{{slug}}
+    preview_path: "{{fields.categories}}/{{slug}}"
     create: true
     editor:
       preview: false
