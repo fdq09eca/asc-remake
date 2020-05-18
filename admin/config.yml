@@ -104,6 +104,7 @@ collections:
           name: "toc",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - {
           label: "TOC title",
@@ -129,15 +130,5 @@ collections:
               widget: "string",
               required: false,
             }
-          - {
-              label: "title",
-              name: "title",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "text",
-              name: "text",
-              widget: "string",
-              required: false,
-            }
+          - { label: "title", name: "title", widget: "string", required: false }
+          - { label: "text", name: "text", widget: "string", required: false }
