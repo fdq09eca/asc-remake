@@ -12,3 +12,4 @@ excerpt: This paper analyses entrepreneurial activities in Hong Kong and the APE
 ---
 
 The APEC Study Centre published a short paper "Entrepreneurship in APEC and Hong Kong" in the "Global Entrepreneurship Monitor Hong Kong and Shenzhen 2016 - 2017" report in February 2017. This paper analyses entrepreneurial activities in Hong Kong and the APEC region using the proprietary dataset from the Global Entrepreneurship Monitor (GEM).
+
