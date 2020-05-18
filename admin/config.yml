@@ -6,17 +6,12 @@ backend:
 media_folder: "assets/images"
 publish_mode: editorial_workflow
 site_url: "http://erc.cuhk.edu.hk/"
-slug:
-  encoding: "ascii"
-  clean_accents: true
-  sanitize_replacement: "%20"
-
 collections:
   - name: "blog"
     label: "Blog"
     folder: "_posts/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "{{fields.categories}}/{{slug}}"
+    preview_path: "/{{slug}}"
     create: true
     editor:
       preview: false
@@ -47,12 +42,19 @@ collections:
               default: 0.5,
             }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "tags",
+          name: "tags",
+          widget: "list",
+          required: false,
+          default: ["others"]
+        }
       - {
           label: "categories",
           name: "categories",
           widget: "list",
           required: false,
+          default: ["ASC"]
         }
       - { label: "execept", name: "execept", widget: "string", required: false }
       - { label: "tagline", name: "tagline", widget: "string", required: false }
