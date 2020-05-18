@@ -47,3 +47,15 @@ collections:
               allow_mulitple: false,
               required: false,
             }
+      - label: "header"
+        name: "header"
+        widget: "object"
+        required: false
+        fields:
+          - {
+              label: "overlay_image",
+              name: "overlay_image",
+              widget: "image",
+              allow_mulitple: false,
+              required: false,
+            }
