@@ -3,7 +3,7 @@ excerpt: >
   Economics 3.0 and the HKIAPS jointly organised the “GoodTalk” show in March
   2016
 header:
-  overlay_image: /assets/images/good-talk-2016.jpg
+  overlay_image: "/assets/images/good-talk-2016.jpg"
   overlay_filter: 0.5
 title: Good Talk 2016
 date: 2016-03-19 00:00
