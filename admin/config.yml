@@ -116,6 +116,7 @@ collections:
         name: "sidebar"
         widget: "list"
         required: false
+        allow_add: false
         fields:
           - {
               label: "image",
