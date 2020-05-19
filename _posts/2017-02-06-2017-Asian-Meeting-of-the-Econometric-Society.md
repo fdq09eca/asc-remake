@@ -6,7 +6,7 @@ excerpt: Asian Meeting of the Econometric Society 2017 was successfully held
   FTA.
 date: 2017-02-06T00:00:00.000Z
 gallery:
-  - url: /assets/images/contributed__invited_sessions_1_20170719_1071676215.jpg
+  - url: /assets/images/contributed__invited_sessions_2_20170719_1448558318.jpg
     image_path: /assets/images/contributed__invited_sessions_2_20170719_1448558318.jpg
     title: Professor Kyle Bagwell presenting on his paper:Trade Policy under
       Monopolistic Competition with Firm Selection
