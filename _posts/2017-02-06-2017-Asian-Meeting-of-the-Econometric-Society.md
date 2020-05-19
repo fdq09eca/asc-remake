@@ -36,4 +36,4 @@ description: "Date: 3 - 5 June 2017"
 
   The lectures given by the three scholars were in great success, a lot of insights about free trade were presented.
 
-  {% include gallery caption='Selected photos of Asian Meeting of the Econometric Society 2017' %}
+ {% include gallery caption='Selected photos of Asian Meeting of the Econometric Society 2017' %}
