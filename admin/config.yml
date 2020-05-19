@@ -13,7 +13,7 @@ collections:
     preview_path: "/{{slug}}"
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
       - { label: "Title", name: "title", widget: "string" }
@@ -77,13 +77,20 @@ collections:
         fields:
           - { label: "title", name: "title", widget: "string", required: false }
           - {
-              label: "image_path",
+              label: "Image",
               name: "image_path",
               widget: "image",
               required: false,
             }
-          - { label: "url", name: "url", widget: "image", required: false }
+          - {
+              label: "url",
+              name: "url",
+              widget: "string",
+              required: false,
+              default: "/assets/images/{filename}",
+            }
           - { label: "alt", name: "alt", widget: "string", required: false }
+
       - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "tags",
