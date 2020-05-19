@@ -34,6 +34,6 @@ description: "Date: 3 - 5 June 2017"
 
   Travis Ng, The Chinese University of Hong Kong: Import Competition and Workplace Injuries in U.S. Manufacturing Industries
 
-  The lectures given by the three scholars were in great success, a lot of insights about free trade were presented.
+  The lectures given by the three scholars were in great success,  insights on free trade were presented.
 
  {% include gallery caption='Selected photos of Asian Meeting of the Econometric Society 2017' %}
