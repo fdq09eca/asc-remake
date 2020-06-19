@@ -37,7 +37,3 @@ Travis Ng, The Chinese University of Hong Kong: Import Competition and Workplace
 The lectures given by the three scholars were in great success,lots of insights on free trade were presented.
 
 {% include gallery caption='Selected photos of Asian Meeting of the Econometric Society 2017' %}
-
-
-
-546545641132
