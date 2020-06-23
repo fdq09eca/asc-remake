@@ -49,7 +49,7 @@ collections:
               required: false,
             }
           - label: "button"
-            name: "action"
+            name: "actions"
             widget: "list"
             required: false
             fields:
