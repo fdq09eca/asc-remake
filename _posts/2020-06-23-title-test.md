@@ -5,7 +5,7 @@ tagline: tagline-test
 excerpt: excerpt-text
 date: 2020-06-23T10:56:16.317Z
 header:
-  action:
+  actions:
     - label: Read More
       url: "#"
   overlay_image: /assets/images/CUHK_logo.png
