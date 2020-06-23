@@ -5,7 +5,9 @@ tagline: tagline
 excerpt: exceprt
 date: 2020-06-23T10:01:38.963Z
 header:
-  action: []
+  action:
+    - label: Read More
+      url: "#"
   overlay_image: /assets/images/dsc_1548.jpg
   overlay_filter: 0.8
 gallery:
