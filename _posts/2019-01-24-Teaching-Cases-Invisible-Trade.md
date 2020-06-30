@@ -1,6 +1,6 @@
 ---
-title: Invisible Trade - test run
-tagline: Teaching cases - test run
+title: Invisible Trade - Test Run
+tagline: Teaching cases
 excerpt: Introduces the situation of Hong Kong trade to secondary school students.
 date: 2019-01-28T00:00:00.000Z
 header:
