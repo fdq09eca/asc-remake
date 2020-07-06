@@ -37,7 +37,6 @@ categories:
 toc: true
 toc_label: Invisible Trade test run
 ---
-
 We had successfully run a pilot test for the teaching case invisible trade. The objectives of the pilot test are the following:
 
 1. Examining the validity of the designated games
@@ -73,4 +72,4 @@ Tutor reiterates the game main intuition so as to strength subject impression. t
 
 The pilot test is successful since the games are completed without major disruptions. Subjects have satisfactory understanding of the games' intuition by further explanation. We appreciate all participants of the test run.
 
-{% include gallery caption='Selected photos of test run' %}
+{% include gallery caption='Selected photos of school visits' %}
