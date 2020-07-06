@@ -7,6 +7,8 @@ header:
   actions:
     - label: Read More
       url: "#"
+  overlay_image: /assets/images/lhk_2.jpg
+  overlay_filter: 0.5
 gallery:
   - url: /assets/images/lhk_1.jpg
     image_path: /assets/images/lhk_1.jpg
