@@ -11,10 +11,10 @@ header:
   overlay_filter: 0.5
 gallery:
   - url: /assets/images/lhk_1.jpg
-    image_path: /assets/images/lhk_1.jpg
+    image_path: ""
     alt: try
   - url: /assets/images/travis_1.jpg
-    image_path: /assets/images/travis_1.jpg
+    image_path: ""
     alt: travis_1
 tags:
   - Invisible Trade
