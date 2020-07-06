@@ -1,8 +1,8 @@
 ---
 title: Invisible Trade - Test run
 tagline: Teaching cases - test run
-excerpt: Introduces the situation and report the statistical number of current
-  Hong Kong trade.
+excerpt: Test run for a teaching case introducing the situation and report the
+  statistical number of current Hong Kong trade.
 date: 2019-01-28
 header:
   overlay_image: /assets/old_images/testrun_hero.jpg
