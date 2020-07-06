@@ -11,7 +11,6 @@ gallery:
   - url: /assets/images/lhk_1.jpg
     image_path: /assets/images/lhk_1.jpg
     alt: try
-  - url: /assets/images/{filename}
 tags:
   - Invisible Trade
   - Teaching cases
