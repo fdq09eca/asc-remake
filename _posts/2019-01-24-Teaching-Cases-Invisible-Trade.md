@@ -1,43 +1,41 @@
 ---
-title: Invisible Trade
+title: Invisible Trade - Test run
 tagline: Teaching cases - test run
+excerpt: Introduces the situation and report the statistical number of current
+  Hong Kong trade.
 date: 2019-01-28
-excerpt: "Introduces the situation and report the statistical number of current Hong Kong trade."
-categories:
-  - APEC Study Centre
-  - Human Capital development
+header:
+  overlay_image: /assets/old_images/testrun_hero.jpg
+  overlay_filter: 0.5
+gallery:
+  - url: /assets/old_images/testrun_ada.jpg
+    image_path: /assets/old_images/testrun_ada.jpg
+    title: test-run student presenter
+  - url: /assets/old_images/testrun_hero.jpg
+    image_path: /assets/old_images/testrun_hero.jpg
+    title: Test-run participants working on the given mission.
+  - url: /assets/old_images/testrun_tony.jpg
+    image_path: /assets/old_images/testrun_tony.jpg
+    alt: test-run student presenter
+    title: Test-run participants working on the given mission.
+  - url: /assets/old_images/testrun_subject.jpg
+    image_path: /assets/old_images/testrun_subject.jpg
+    title: Test-run participants working on the given mission.
+  - url: /assets/old_images/testrun_subject2.jpg
+    image_path: /assets/old_images/testrun_subject2.jpg
+    title: Test-run participants working on the given mission.
+  - url: /assets/old_images/testrun_subject3.jpg
+    image_path: /assets/old_images/testrun_subject3.jpg
+    title: Test-run participants working on the given mission.
 tags:
   - test run
   - Teaching cases
   - Invisible trade
-header:
-  overlay_image: /assets/old_images/testrun_hero.jpg
-  overlay_filter: 0.5
-  # actions:
-  #   - label: "Invisible.zip"
-  #     url: "https://unsplash.com"
-gallery:
-  - url: /assets/old_images/testrun_ada.jpg
-    image_path: /assets/old_images/testrun_ada.jpg
-    title: "test-run student presenter"
-  - url: /assets/old_images/testrun_hero.jpg
-    image_path: /assets/old_images/testrun_hero.jpg
-    title: "Test-run participants working on the given mission."
-  - url: /assets/old_images/testrun_tony.jpg
-    image_path: /assets/old_images/testrun_tony.jpg
-    alt: "test-run student presenter"
-    title: "Test-run participants working on the given mission."
-  - url: /assets/old_images/testrun_subject.jpg
-    image_path: /assets/old_images/testrun_subject.jpg
-    title: "Test-run participants working on the given mission."
-  - url: /assets/old_images/testrun_subject2.jpg
-    image_path: /assets/old_images/testrun_subject2.jpg
-    title: "Test-run participants working on the given mission."
-  - url: /assets/old_images/testrun_subject3.jpg
-    image_path: /assets/old_images/testrun_subject3.jpg
-    title: "Test-run participants working on the given mission."
+categories:
+  - APEC Study Centre
+  - Human Capital development
 toc: true
-toc_label: "Invisible Trade test run"
+toc_label: Invisible Trade test run
 ---
 
 We had successfully run a pilot test for the teaching case invisible trade. The objectives of the pilot test are the following:
