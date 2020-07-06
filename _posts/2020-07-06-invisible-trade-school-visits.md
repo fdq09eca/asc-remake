@@ -8,7 +8,9 @@ header:
     - label: Read More
       url: "#"
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/lhk_1.jpg
+    image_path: /assets/images/lhk_1.jpg
+    alt: try
 tags:
   - Invisible Trade
   - Teaching cases
