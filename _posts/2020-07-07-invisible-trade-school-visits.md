@@ -18,6 +18,7 @@ gallery:
     image_path: /assets/images/lhk_4_a.jpg
     alt: Not available
     title: Students listening carefully about how to play the game
+  - url: /assets/images/{filename}
 tags:
   - Invisible Trade
   - Teaching cases
