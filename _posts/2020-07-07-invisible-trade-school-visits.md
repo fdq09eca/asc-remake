@@ -14,6 +14,7 @@ gallery:
     image_path: /assets/images/yls_1_a.jpg
     alt: Not available
     title: "Our student helper introducing the game "
+  - url: /assets/images/{filename}
 tags:
   - Invisible Trade
   - Teaching cases
