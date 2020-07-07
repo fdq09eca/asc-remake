@@ -10,7 +10,10 @@ header:
   overlay_image: /assets/images/lhk_2.jpg
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/yls_1_a.jpg
+    image_path: /assets/images/yls_1_a.jpg
+    alt: Not available
+    title: "Our student helper introducing the game "
 tags:
   - Invisible Trade
   - Teaching cases
