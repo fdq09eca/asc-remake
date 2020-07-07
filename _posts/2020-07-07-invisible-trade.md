@@ -38,19 +38,13 @@ toc: false
 
 This is a teaching case aiming to introduce certain trade concepts and Hong Kong trade situation to secondary school students or non-economic undergraduates. Two groups of students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/) involved in the whole project, from conducting research on Hong Kong Trade statistics to deigning a game for teaching purpose.
 
-
-
 # Background Research
 
 In recent years, news reports often use cargo throughput as a measure of Hong Kong trade activities and claim Hong Kong is not competitive anymore. However, our students found out the values of both exports and imports of goods have been increasing for decades (figure 1). A more important finding is that exports and imports of services have also been rising quite rapidly for the last 10 years (figure 2). These statistics means Hong Kong trading firms no longer import the products to Hong Kong and re-export it (traditional Onshore Trade), instead, they are now providing services to ship the products directly from countries to countries without going through Hong Kong (Offshore Trade).
 
-
-
 # The Game
 
 The game is designed based on the above result. The setting of it is to let the audience understand cargo throughput tells quantity information alone but cannot fully reflect the values of trade (both price and quantity). Another goal of the game is to introduce Onshore and Offshore trade, using Hong Kong as an example.
-
-
 
 ## Game
 
@@ -62,11 +56,7 @@ The game is designed based on the above result. The setting of it is to let the 
 
 **Materials**: 1 PPT slide show, 1 Instructor Guide, 2 set of game cards, 1 list of cards (with information), 1 set of missions
 
-
-
 We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/teaching-cases-invisible-trade/) for amending the game and implemented the game at a few secondary schools during our school visits. 
-
-
 
 # Outcomes
 
@@ -98,8 +88,6 @@ Students will now be able to acquire the following knowledge:
 
 \- Hong Kong trade situation and recent development
 
-
-
 # Resources
 
 The research of our students and all the game materials are available for download from the link below.
@@ -110,14 +98,10 @@ Win.rar
 
 <https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
 
-
-
 # Acknowledgements
 
 We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for funding the [CUHK APEC Study Centre](https://erc.cuhk.edu.hk/asc/) and this study.
 
-We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth who established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
-
-
+We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth which established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
 
 {% include gallery caption='Figures' %}
