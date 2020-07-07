@@ -21,7 +21,7 @@ toc: false
 ---
 # Introduction
 
-This is a teaching case aiming to introduce certain trade concepts and Hong Kong trade situation to secondary school students or non-economic undergraduates. Two groups of CUHK economic students involved in the whole project, from conducting research on Hong Kong Trade statistics to deigning a game for teaching purpose.
+This is a teaching case aiming to introduce certain trade concepts and Hong Kong trade situation to secondary school students or non-economic undergraduates. Two groups of students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/) involved in the whole project, from conducting research on Hong Kong Trade statistics to deigning a game for teaching purpose.
 
 
 
@@ -101,7 +101,7 @@ Win.rar
 
 We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for funding the CUHK APEC Study Centre and this study.
 
-We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by the following students -- from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/) -- LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth who established the foundation of this paper. With other students: CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
+We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth who established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
 
 
 
