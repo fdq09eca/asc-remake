@@ -13,13 +13,19 @@ gallery:
   - url: /assets/images/trade.jpg
     image_path: /assets/images/trade.jpg
     title: "Figure 1. External Trade "
-    alt: Not available
+    alt: Failed
   - url: /assets/images/services.jpg
-    title: Figure 2. Trades of services
+    title: Figure 2. Trades of Services
     image_path: /assets/images/services.jpg
-    alt: Not available
-  - url: /assets/images/{filename}
-  - url: /assets/images/{filename}
+    alt: Failed
+  - url: /assets/images/onoffshore.jpg
+    image_path: /assets/images/onoffshore.jpg
+    title: Figure 3. Onshore and Offshore Trade
+    alt: Failed
+  - url: /assets/images/card.jpg
+    alt: Failed
+    image_path: /assets/images/card.jpg
+    title: Figure 4. Example of Game Card
 tags:
   - Invisible Trade
   - Teaching cases
