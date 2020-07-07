@@ -13,6 +13,7 @@ gallery:
   - url: /assets/images/trade.jpg
     image_path: /assets/images/trade.jpg
     title: "Figure 1. External Trade "
+    alt: Not available
 tags:
   - Invisible Trade
   - Teaching cases
