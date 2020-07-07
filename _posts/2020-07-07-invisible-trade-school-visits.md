@@ -2,6 +2,7 @@
 layout: single
 title: Invisible Trade - School Visits
 tagline: Teaching cases - school visit
+excerpt: We implemented our game in a few schools this Summer.
 date: 2019-06-20T01:42:59.412Z
 header:
   actions:
