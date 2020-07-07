@@ -49,6 +49,10 @@ The game is designed based on the above result. The setting of it is to let the 
 
 
 
+We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/teaching-cases-invisible-trade/) for amending the game and implemented the game at a few secondary schools during our school visits. 
+
+
+
 # Outcomes
 
 Students will now be able to acquire the following knowledge:
@@ -90,5 +94,15 @@ The research of our students and all the game materials are available for downlo
 Win.rar
 
 <https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
+
+
+
+# Acknowledgements
+
+We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for funding the CUHK APEC Study Centre and this study.
+
+We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by students from [Department of Economics, The Chinese University of Hong Kong,](http://www.econ.cuhk.edu.hk/econ/en-gb/) LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth who established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
+
+<!--EndFragment-->
 
 {% include gallery caption='Figures' %}
