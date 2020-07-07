@@ -10,7 +10,9 @@ header:
   overlay_filter: 0.4
   overlay_image: /assets/images/index_fta.jpg
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/trade.jpg
+    image_path: /assets/images/trade.jpg
+    title: "Figure 1. External Trade "
 tags:
   - Invisible Trade
   - Teaching cases
