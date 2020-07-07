@@ -19,4 +19,76 @@ categories:
   - Human Capital development
 toc: false
 ---
-Introduction
+# Introduction
+
+This is a teaching case aiming to introduce certain trade concepts and Hong Kong trade situation to secondary school students or non-economic undergraduates. Two groups of CUHK economic students involved in the whole project, from conducting research on Hong Kong Trade statistics to deigning a game for teaching purpose.
+
+
+
+# Background Research
+
+In recent years, news reports often use cargo throughput as a measure of Hong Kong trade activities and claim Hong Kong is not competitive anymore. However, our students found out the values of both exports and imports of goods have been increasing for decades (figure 1). A more important finding is that exports and imports of services have also been rising quite rapidly for the last 10 years (figure 2). These statistics means Hong Kong trading firms no longer import the products to Hong Kong and re-export it (traditional Onshore Trade), instead, they are now providing services to ship the products directly from countries to countries without going through Hong Kong (Offshore Trade).
+
+
+
+# The Game
+
+The game is designed based on the above result. The setting of it is to let the audience understand cargo throughput tells quantity information alone but cannot fully reflect the values of trade (both price and quantity). Another goal of the game is to introduce Onshore and Offshore trade, using Hong Kong as an example.
+
+
+
+## Game
+
+**Target audience**: Secondary school students; non-economic undergraduates
+
+**Time needed**: Around 45 mins
+
+**Suggested no. of students in each group**: 3-5
+
+**Materials**: 1 PPT slide show, 1 Instructor Guide, 2 set of game cards, 1 list of cards (with information), 1 set of missions
+
+
+
+# Outcomes
+
+Students will now be able to acquire the following knowledge:
+
+**Core concepts involved**:
+
+\- mode of transportation in trade
+
+\- Onshore trade/ Offshore trade
+
+\- role as a middleman in trade
+
+\- differences between price/volume and value
+
+\- maximisation of profits under different conditions and restrictions
+
+**Skills:**
+
+\- be able to interpret trade statistics and diagrams
+
+\- be able to interpret employment statistics and diagrams
+
+\- be able to reflect on the limitations of current trade statistics provided
+
+**Other concepts and knowledge related:**
+
+\- value-added of a middleman
+
+\- Hong Kong trade situation and recent development
+
+
+
+# Resources
+
+The research of our students and all the game materials are available for download from the link below.
+
+<https://drive.google.com/drive/folders/1FMXMW7dID-DnlyDz6qznyGHzQu9ICnyo?usp=sharing>
+
+Win.rar
+
+<https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
+
+{% include gallery caption='Figures' %}
