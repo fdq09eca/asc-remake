@@ -14,6 +14,10 @@ gallery:
     image_path: /assets/images/trade.jpg
     title: "Figure 1. External Trade "
     alt: Not available
+  - url: /assets/images/services.jpg
+    title: Figure 2. Trades of services
+    image_path: /assets/images/services.jpg
+    alt: Not available
 tags:
   - Invisible Trade
   - Teaching cases
