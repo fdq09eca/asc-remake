@@ -18,6 +18,8 @@ gallery:
     title: Figure 2. Trades of services
     image_path: /assets/images/services.jpg
     alt: Not available
+  - url: /assets/images/{filename}
+  - url: /assets/images/{filename}
 tags:
   - Invisible Trade
   - Teaching cases
@@ -106,7 +108,7 @@ Win.rar
 
 # Acknowledgements
 
-We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for funding the CUHK APEC Study Centre and this study.
+We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for funding the [CUHK APEC Study Centre](https://erc.cuhk.edu.hk/asc/) and this study.
 
 We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth who established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
 
