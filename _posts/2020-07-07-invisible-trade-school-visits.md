@@ -18,7 +18,10 @@ gallery:
     image_path: /assets/images/lhk_4_a.jpg
     alt: Not available
     title: Students listening carefully about how to play the game
-  - url: /assets/images/{filename}
+  - url: /assets/images/yls_3_a.jpg
+    image_path: /assets/images/yls_3_a.jpg
+    title: Prof. Travis NG visiting Po Leung Kuk Yao Ling Sun College
+    alt: Not available
 tags:
   - Invisible Trade
   - Teaching cases
