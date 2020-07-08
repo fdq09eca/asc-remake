@@ -56,7 +56,7 @@ The game is designed based on the above result. The setting of it is to let the 
 
 **Materials**: 1 PPT slide show, 1 Instructor Guide, 2 set of game cards, 1 list of cards (with information), 1 set of missions
 
-We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/teaching-cases-invisible-trade/) for amending the game and implemented the game at a few secondary schools during our school visits. 
+We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/teaching-cases-invisible-trade/) for amending the game and implemented the game at a few secondary schools during our [school visits](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade-school-visits/). 
 
 # Outcomes
 
