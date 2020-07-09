@@ -7,7 +7,7 @@ date: 2019-06-20T01:42:59.412Z
 header:
   actions:
     - label: Read More
-      url: "#apec%20study%20centre/human%20capital%20development/invisible-trade/"
+      url: https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/
   overlay_image: /assets/images/lhk_2.jpg
   overlay_filter: 0.5
 gallery:
