@@ -60,7 +60,7 @@ We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/hum
 
 # Outcomes
 
-Students will now be able to acquire the following knowledge:
+Here are the knowledge participants could learn from this teaching case:
 
 **Core concepts involved**:
 
