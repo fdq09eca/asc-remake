@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: Read More
-      url: https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/
+      url: https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade
 gallery:
   - url: /assets/old_images/testrun_ada.jpg
     image_path: /assets/old_images/testrun_ada.jpg
