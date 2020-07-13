@@ -35,7 +35,7 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 
 <!-- <img src="{{ person.avatar }}" alt="{{person.name}}" width="80px" height="80px" style="border-radius: 10%;"> -->
 # Organisation
-![org_chart](/assests/imagesorg_cht.jpg){: .align-center}
+![org_chart](/assests/images/org_cht.jpg){: .align-center}
 
 # Contact Us
 
