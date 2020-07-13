@@ -24,7 +24,7 @@ The Economic Research Centre was established in July 2010. The Centre originated
 Members of the Centre include reputable scholars of The Chinese University of Hong Kong and other universities. Many of them have served as advisors in the advisory committees of the government, heads of various academic organizations, and editors/editorial board members of international academic journals.
 {: .text-justify}
 
-# Our People
+## Our People
 
 |     | Name | Position |
 | :-: | :--: | :------: |
@@ -34,10 +34,10 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 {% endfor %}
 
 <!-- <img src="{{ person.avatar }}" alt="{{person.name}}" width="80px" height="80px" style="border-radius: 10%;"> -->
-# Organisation
+## Organisation
 ![org_chart](/assets/images/org_cht.png){: .align-center}
 
-# Contact Us
+## Contact Us
 
 <!-- <style>
     .google-maps {
