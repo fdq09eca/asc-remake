@@ -12,7 +12,16 @@ header:
   overlay_image: /assets/images/plane.jpg
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/hk-bj-passengers.png
+    title: Figure 1. Passenger Traffic and Cargo Volume of Hong Kong International
+      Airport and Beijing Capital International Airport
+    image_path: /assets/images/hk-and-bj-passengers.png
+    alt: Failed to open.
+  - url: /assets/images/hk-bj-flights.png
+    title: Figure 2. Number of Flights of Hong Kong International Airport and
+      Beijing Capital International Airport
+    image_path: /assets/images/hk-and-bj-flights.png
+    alt: Failed to open.
 tags:
   - others
 categories:
