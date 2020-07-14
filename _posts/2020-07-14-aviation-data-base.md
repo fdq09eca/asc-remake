@@ -36,9 +36,9 @@ toc: true
 ---
 # Introduction
 
-This data set aimed at providing a general view on the development of aviation industry within Asia-Pacific Economic Cooperation (APEC) in the past decade (2005 -2019). This data hope to serve as a platform to introduce the recent development of the fast-growing aviation industry in APEC to the public, as well as to provide the basic information and inspiration for academic purpose and policy making.
+This data set aimed at providing a general view on the development of aviation industry within Asia-Pacific Economic Cooperation (APEC) in the past decade. This data hope to serve as a platform to introduce the recent development of the fast-growing aviation industry in APEC to the public, as well as to provide the basic information and inspiration for academic purpose and policy making.
 
-The annual data are collected from government departments and airport operating corporations (for further information, please check the sheet “*Sources*”).* Nearly 50 major airports from APEC member economies are investigated in terms of their number of passengers, volume of cargo and number of flights.
+The annual data from 2005 to 2019 are collected from government departments and airport operating corporations (for further information, please check the sheet “*Sources*”). Nearly 50 major airports from APEC member economies are investigated in terms of their number of passengers, volume of cargo and number of flights.*
 
 # Description of parameters
 
@@ -70,7 +70,7 @@ Another trend observed is that the number of flights shows a more direct and sig
 
 
 
-Database
+# Database
 
 The data can be downloaded in the link below:
 
