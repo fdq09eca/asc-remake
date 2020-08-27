@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Aviation - Database
-tagline: Teaching Cases - aviation
+tagline: ""
 excerpt: This is a database containing certain information of around 50 major
   airports in APEC economies.
 date: 2020-07-15T08:18:52.670Z
@@ -28,10 +28,10 @@ gallery:
     alt: Failed to open.
 tags:
   - Aviation
-  - Teaching cases
+  - Database
 categories:
   - APEC Study Centre
-  - Human Capital development
+  - Aviation Connectivity
 toc: true
 ---
 # Introduction
