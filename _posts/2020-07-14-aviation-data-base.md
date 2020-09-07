@@ -68,14 +68,12 @@ See Figure 1 and 2. Hong Kong International Airport and Beijing Capital Internat
 
 Another trend observed is that the number of flights shows a more direct and significant relationship with the passenger traffic, rather than the cargo volume. For Kota Kinabalu International airport in Malaysia (Figure 3), number of flights and number of passengers had at least doubled from 2005 to 2019 while the volume of cargo only grew by 3000 tons. It maybe associates to the market positioning of the airport that this airport mainly serves travellers instead of trading activities.
 
-
-
 # Database
 
 The data can be downloaded in the link below:
 
 <https://drive.google.com/file/d/1iMCAU6ZR97KU14vM34HHSTpYjfcm8T3M/view?usp=sharing>
 
-
-
 *\* There are some missing data due to languages issue, outdated government records and availability of past data in some countries.*
+
+{% include gallery caption='Figures' %}
