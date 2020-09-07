@@ -12,10 +12,20 @@ header:
   overlay_image: /assets/images/plane.jpg
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/{filename}
+  - url: /assets/images/hk-and-bj-passenger.png
     title: Figure 1. Passenger Traffic and Cargo Volume of Hong Kong International
       Airport and Beijing Capital International Airport
     image_path: /assets/images/hk-and-bj-passengers.png
+    alt: Not available
+  - url: /assets/images/hk-and-bj-flights.png
+    title: Figure 2. Number of Flights of Hong Kong International Airport and
+      Beijing Capital International Airport
+    image_path: /assets/images/hk-and-bj-flights.png
+    alt: Not available
+  - url: /assets/images/malay.png
+    title: Figure 3. Information of Kota Kinabalu International Airport, Malaysia
+    image_path: /assets/images/malay.png
+    alt: Not available
 tags:
   - Aviation
   - Database
