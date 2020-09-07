@@ -12,20 +12,20 @@ header:
   overlay_image: /assets/images/plane.jpg
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/hk-bj-passengers.png
+  - url: /assets/images/hk-and-bj-passenger.png
     title: Figure 1. Passenger Traffic and Cargo Volume of Hong Kong International
       Airport and Beijing Capital International Airport
     image_path: /assets/images/hk-and-bj-passengers.png
-    alt: Failed to open.
-  - url: /assets/images/hk-bj-flights.png
+    alt: Not available
+  - url: /assets/images/hk-and-bj-flights.png
     title: Figure 2. Number of Flights of Hong Kong International Airport and
       Beijing Capital International Airport
     image_path: /assets/images/hk-and-bj-flights.png
-    alt: Failed to open.
+    alt: Not available
   - url: /assets/images/malay.png
     title: Figure 3. Information of Kota Kinabalu International Airport, Malaysia
     image_path: /assets/images/malay.png
-    alt: Failed to open.
+    alt: Not available
 tags:
   - Aviation
   - Database
@@ -68,14 +68,12 @@ See Figure 1 and 2. Hong Kong International Airport and Beijing Capital Internat
 
 Another trend observed is that the number of flights shows a more direct and significant relationship with the passenger traffic, rather than the cargo volume. For Kota Kinabalu International airport in Malaysia (Figure 3), number of flights and number of passengers had at least doubled from 2005 to 2019 while the volume of cargo only grew by 3000 tons. It maybe associates to the market positioning of the airport that this airport mainly serves travellers instead of trading activities.
 
-
-
 # Database
 
 The data can be downloaded in the link below:
 
 <https://drive.google.com/file/d/1iMCAU6ZR97KU14vM34HHSTpYjfcm8T3M/view?usp=sharing>
 
-
-
 *\* There are some missing data due to languages issue, outdated government records and availability of past data in some countries.*
+
+{% include gallery caption='Figures' %}
