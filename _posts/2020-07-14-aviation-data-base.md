@@ -11,7 +11,11 @@ header:
       url: "#"
   overlay_image: /assets/images/plane.jpg
   overlay_filter: 0.5
-gallery: []
+gallery:
+  - url: /assets/images/{filename}
+    title: Figure 1. Passenger Traffic and Cargo Volume of Hong Kong International
+      Airport and Beijing Capital International Airport
+    image_path: /assets/images/hk-and-bj-passengers.png
 tags:
   - Aviation
   - Database
