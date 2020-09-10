@@ -20,6 +20,6 @@ Thanks to the fundings from [Hong Kong Trade and Industry Department](https://ww
 
 ## 1. Invisible Trade
 
-Teaching case "*[Invisible Trade](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/)*" provides a glance at Hong Kong trade situation. News reports in recently years often claimed the decrease in cargo throughputs manifests that Hong Kong is losing its position as an international trading hut. Whether cargo throughputs can tell us a full picture of trading situation and whether Hong Kong becomes less competitive in trade are our questions. The guide and games in this teaching case sufficiently clear our doubts by providing extra information of trading methods.
+Teaching case "*[Invisible Trade](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/)*" provides a glance at Hong Kong trade situation. News reports in recently years often claimed the decrease in cargo throughputs manifests that Hong Kong is losing its position as an international trading hut. We want to know whether it is true that cargo throughputs can tell us a full picture of trading situation, and whether it is true that Hong Kong becomes less competitive in trade. The guide and games in this teaching case sufficiently answer our questions by providing a new sight regarding trading methods.
 
 Keywords: Hong Kong external trade, middlemen, offshore trade, throughputs
