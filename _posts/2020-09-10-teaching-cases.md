@@ -16,7 +16,7 @@ categories:
   - ASC
 toc: false
 ---
-Thanks to the fundings from [Hong Kong Trade and Industry Department](https://www.tid.gov.hk), we have designed several teaching cases which are now available for download. These teaching cases aim to promote Economics in an interactive style to secondary school students as well as general public. We would like like to appreciate the students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/) who devised the materials.
+Thanks to the fundings from [Hong Kong Trade and Industry Department](https://www.tid.gov.hk), we have designed several teaching cases which are now available for download. These teaching cases aim to promote Economics, particularly in the area of International Trade, in an interactive style to secondary school students as well as general public. We would like like to appreciate the students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/) who devised the materials.
 
 ## 1. Invisible Trade
 
