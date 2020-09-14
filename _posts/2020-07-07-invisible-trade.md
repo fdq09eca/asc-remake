@@ -58,7 +58,7 @@ The game is designed based on the above result. The setting of it is to let the 
 
 We have conducted a [test run](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/teaching-cases-invisible-trade/) for amending the game and implemented the game at a few secondary schools during our [school visits](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade-school-visits/). 
 
-# Outcomes
+# Learning Outcomes
 
 Here are the knowledge participants could learn from this teaching case:
 
@@ -97,6 +97,10 @@ The research of our students and all the game materials are available for downlo
 Win.rar
 
 <https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
+
+We have also documented the process of constructing this teaching case. and submitted it to Journal of Economic Education.
+
+<http://teacher.econ.cuhk.edu.hk/~travisng/Offshore_Trade_Teaching.pdf>
 
 # Acknowledgements
 
