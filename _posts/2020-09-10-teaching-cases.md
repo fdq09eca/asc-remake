@@ -16,10 +16,12 @@ categories:
   - ASC
 toc: false
 ---
-Thanks to the fundings from [Hong Kong Trade and Industry Department](https://www.tid.gov.hk), our [Centre](https://erc.cuhk.edu.hk/asc/) aims to promote Economics by constructing several enlightening teaching cases. The materials in each teaching case, devised by students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/), are available for download in our website. 
+Thanks to the fundings from [Hong Kong Trade and Industry Department](https://www.tid.gov.hk), we have designed several teaching cases which are now available for download. The teaching cases aim to promote Economics to secondary school students as well as general public. The materials in each teaching case were devised by students from [Department of Economics, The Chinese University of Hong Kong](http://www.econ.cuhk.edu.hk/econ/en-gb/).
 
 ## 1. Invisible Trade
 
-Teaching case "*[Invisible Trade](https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/)*" provides a glance at Hong Kong trade situation. News reports in recently years often claimed the decrease in cargo throughputs manifests that Hong Kong is losing its position as an international trading hub. We want to know whether it is true that cargo throughputs can tell us a full picture of trading situation, and that Hong Kong is becoming less competitive in trade. The guide and games in this teaching case sufficiently answer our questions by providing a new sight regarding trading methods.
+Teaching case "*Invisible Trade*" provides a glance at Hong Kong trade situation. News reports in recently years often claimed the decrease in cargo throughputs manifests that Hong Kong is losing its position as an international trading hub. We want to know whether it is true that cargo throughputs can tell us a full picture of trading situation, and that Hong Kong is becoming less competitive in trade. The guide and games in this teaching case sufficiently answer our questions by providing a new sight regarding trading methods.
+
+Link: <https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/invisible-trade/#introduction>
 
 Keywords: Hong Kong external trade, middlemen, offshore trade, throughputs
