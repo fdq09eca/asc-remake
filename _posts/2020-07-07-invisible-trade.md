@@ -98,7 +98,7 @@ Win.rar
 
 <https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
 
-We have also documented the process of constructing this teaching case. and submitted it to Journal of Economic Education.
+We have also documented the process of constructing this teaching case. and submitted it to a journal.
 
 <http://teacher.econ.cuhk.edu.hk/~travisng/Offshore_Trade_Teaching.pdf>
 
