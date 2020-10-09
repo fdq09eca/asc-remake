@@ -7,7 +7,7 @@ excerpt: Prof. Travis NG shared his knowledge of regional economic cooperation
 date: 2020-09-30T07:10:03.772Z
 header:
   actions: []
-  overlay_image: /assets/images/4.png
+  overlay_image: /assets/images/4.2.png
   overlay_filter: 0.5
 gallery:
   - url: /assets/images/2.png
