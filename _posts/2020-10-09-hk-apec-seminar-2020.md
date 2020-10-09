@@ -25,14 +25,12 @@ categories:
   - APEC Study Centre
 toc: false
 ---
-HK@APEC Seminar was held on Sept 26, 2020, by part of the [Hong Kong Committee for Pacific Economic Cooperation (HKCPEC)](http://www.hkcpec.org/) and [Junior Achievement Hong Kong (JA HK)](https://www.jahk.org/). This seminar is one part of* **“Play” It Forward HK@APEC Game Design Competition*** where participants, mostly secondary school students, apply their knowledge to game design. 
+HK@APEC Seminar was held on Sept 26, 2020, by part of the [Hong Kong Committee for Pacific Economic Cooperation (HKCPEC)](http://www.hkcpec.org/) and [Junior Achievement Hong Kong (JA HK)](https://www.jahk.org/). This seminar is one part of ***“Play” It Forward HK@APEC Game Design Competition*** where participants, mostly secondary school students, apply their knowledge to game design. 
 
 Prof. Travis NG was invited to deliver a talk titled ***Progress on regional economic cooperation and its implication for Hong Kong***, aiming to enhancing students’ awareness and understanding of regional trade and economic cooperation.
 
 ![JAHK](/assets/images/5.png)
 
 It is our honour to be part of this seminar and share our understanding with the students. We hereby appreciate the invitation from JA HK which organised such an inspiring and educative event for our youth. We would also like to take this opportunity to thank their staff, particularly Rita LI, for the help and support offered.
-
-
 
 {% include gallery caption='Figures' %}
