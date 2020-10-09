@@ -4,7 +4,7 @@ title: HK@APEC Seminar 2020
 tagline: Seminar held by Junior Achievement Hong Kong
 excerpt: Prof. Travis NG shared his knowledge of regional economic cooperation
   with more than 100 secondary school students.
-date: 2020-10-09T07:10:03.772Z
+date: 2020-09-30T07:10:03.772Z
 header:
   actions: []
   overlay_image: /assets/images/4.png
