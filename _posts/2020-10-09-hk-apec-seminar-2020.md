@@ -33,4 +33,4 @@ Prof. Travis NG was invited to deliver a talk titled ***Progress on regional eco
 
 It is our honour to be part of this seminar and share our understanding with the students. We hereby appreciate the invitation from JA HK which organised such an inspiring and educative event for our youth. We would also like to take this opportunity to thank their staff, particularly Rita LI, for the help and support offered.
 
-{% include gallery caption='Figures' %}
+{% include gallery caption='' %}
