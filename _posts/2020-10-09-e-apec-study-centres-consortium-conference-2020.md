@@ -21,3 +21,7 @@ The **E-APEC Study Centres Consortium Conference 2020** was hosted by [Malaysian
 The theme this year is “*Towards an Inclusive, Sustainable Growth and Shared Prosperity Post-Pandemic*” which is aligned with the that of Malaysia’s hosting year of APEC in 2020. This Conference aims at achieving an inclusive, sustainable growth and shared prosperity, especially in facing the new normal post-pandemic, by sharing knowledge, exchanging practices and lessons learned on the progress and challenges facing the APEC economies in this year.
 
 Prof. Travis NG presented his paper, "***To Mask or Not to Mask***", offering his policy recommendations based on  certain observed behaviour patterns of mask wearing. The paper provides a rational explanation of why in some crowded cities almost everyone wears masks, but few do so in other equally crowded places; and identifies the scenarios wherein mandatory mask policies benefit society.
+
+
+
+{% include gallery caption='E-ASCCC 2020' %}
