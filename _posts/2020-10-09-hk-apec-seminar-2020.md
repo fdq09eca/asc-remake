@@ -14,9 +14,10 @@ gallery:
     image_path: /assets/images/2.png
     title: Why free trade?
     alt: Not available.
-  - url: /assets/images/{filename}
-    image_path: /assets/images/3.png
-    title: Why APEC
+  - url: /assets/images/1.png
+    image_path: /assets/images/1.png
+    title: Current trends of HK Trade
+    alt: Not available.
 tags:
   - event
   - Free Trade
