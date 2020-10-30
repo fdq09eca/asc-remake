@@ -11,6 +11,11 @@ header:
   overlay_color: "#000000"
   overlay_image: assets/images/erc-about.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "About ERC"
+      url: "/about/"
+    - label: "About ASC"
+      url: "/asc/"
 sidebar:
   - title: ""
     text: <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEconomic-Research-Centre-500334206838357%2F&tabs=timeline&width=250&height=300&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="250" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
