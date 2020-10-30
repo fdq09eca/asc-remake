@@ -62,9 +62,9 @@ author:
   avatar: "/assets/images/CUHK_logo.png"
   bio: "Part of HKIAPS, CUHK"
   links:
-    - label: "Official website"
-      icon: "fas fa-fw fa-link"
-      url: "https://erc.cuhk.edu.hk"
+    #- label: "Official website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://erc.cuhk.edu.hk"
     - label: "EconRC@cuhk.edu.hk"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:EconRC@cuhk.edu.hk"
