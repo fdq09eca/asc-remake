@@ -26,6 +26,9 @@ sidebar:
 The Economic Research Centre was established in July 2010. The Centre originated from the upgrading of its predecessor, the Hong Kong and Asia-Pacific Economies Programme, which had been part of the Hong Kong Institute of Asia-Pacific Studies since its inception in 1990. The mission of the Centre is to promote research and stimulate policy discussions on economic issues involving Hong Kong, Greater China, and the Asia-Pacific region. The Centre holds international conferences, seminars, and forums on relevant topics.
 {: .text-justify}
 
+The Centre is a core member of the [Asian Economic Association](http://www.eaeaweb.com/). Founded in 1987, it was the first international academic organization to focus on the economies of East Asia. Our Centre served as the Secretariat of the Association. Since 1990, our Centre has jointly published the Association’s Asian Economic Journal together with our partner in Japan. The ISI has accepted the Journal for coverage in 2008. Read more about our publications [here](/publications.md).
+{: .text-justify}
+
 Members of the Centre include reputable scholars of The Chinese University of Hong Kong and other universities. Many of them have served as advisors in the advisory committees of the government, heads of various academic organizations, and editors/editorial board members of international academic journals.
 {: .text-justify}
 
@@ -42,7 +45,12 @@ Members of the Centre include reputable scholars of The Chinese University of Ho
 ## Organisation
 ![org_chart](/assets/images/org_cht.png){: .align-center}
 
-## Contact Us
+# On going Programmes
+
+Major research topics include the Hong Kong economy and its transformation government policies; the economic integration of Greater China; and trade investment, and financial relations between Hong Kong and the Asia-Pacific region. Read more about our programmes [here](/programmes.md).
+{: .text-justify}
+
+# Contact Us
 
 <!-- <style>
     .google-maps {
