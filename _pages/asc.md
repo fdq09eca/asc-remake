@@ -7,8 +7,10 @@ header:
   caption: "Photo credit: CNA"
   overlay_filter: 0.8
   actions:
-    - label: "About APEC"
-      url: "/asc/#our-centre"
+    - label: "About ERC"
+      url: "/about/"
+    - label: "About ASC"
+      url: "/asc/"
     # - label: "Latest News"
     #   url: "/activities/"
 title: APEC Study Centre
@@ -47,9 +49,9 @@ human_development:
     excerpt: |
       Human capital is one of the most important factors for sustainable economic growth. Thus, human resources development has been identified as one of the APEC’s priorities in 2015. People-to-people connectivity, which includes cross-border movement of tourists, professionals and youth, is also emphasized in the APEC Connectivity Blueprint for 2015-2025. With the world-class tertiary education system, Hong Kong has the potential to develop herself into a regional education hub for APEC member economies. The hub could help strengthen human capital in the member economies through knowledge transfer and creating a peer learning environment.
       {: .text-justify}
-    url: "/publications/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # url: "/publications/"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
 msme:
   - image_path: /assets/old_images/vic_h.jpg
     alit: "Development of Micro Small and Medium Enterprises in APEC Economies"
