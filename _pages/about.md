@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 # class: wide
-title: "About ERC"
+title: "About Us - Economic Research Centre"
 # tagline: ""
 toc: true
 toc_label: Economics Research Centre
