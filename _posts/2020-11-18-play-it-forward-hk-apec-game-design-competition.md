@@ -1,7 +1,7 @@
 ---
 layout: single
 title: '"Play" It Forward HK@APEC Game Design Competition'
-tagline: Event held by Junior Achievement Hong Kong (JA HK)
+tagline: Event held by Junior Achievement Hong Kong (JAHK)
 excerpt: Prof. Travis Ng was invited to be one of the judges of the competition.
 date: 2020-11-17T05:02:07.151Z
 header:
