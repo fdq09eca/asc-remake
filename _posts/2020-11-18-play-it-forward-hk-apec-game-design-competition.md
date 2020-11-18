@@ -22,7 +22,7 @@ toc: false
 ---
 "Play" It Forward HK@APEC Game Design Competition was held successfully on 14th November, 2020. 22 student teams devised creative games with international trade concepts. Prof. Travis NG was invited to judge the game designs and gave valuable recommendations to the participants. 
 
-The Competition was co-organised by JAHK with seminars and workshops. It aims to develop students' understanding of regional trades, mainly Asia-Pacific Economic Cooperation, creativity and critical thinking. More than 100 secondary students have joined this programme. 
+The Competition was co-organised by JAHK with seminars and workshops. It aims to develop students' creativity, critical thinking and understanding of regional trades, mainly Asia-Pacific Economic Cooperation. More than 100 secondary students have joined this programme. 
 
 JAHK is a world-wide NGO intending to equip youths with business skillset and knowledge. Their programmes provide youths the opportunities to learn from entrepreneurs, policy makers and educational parties. More information can be found on their [website](http://www.jahk.org) or [Facebook](https://www.facebook.com/JAHONGKONG/).
 
