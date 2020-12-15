@@ -92,11 +92,7 @@ Here are the knowledge participants could learn from this teaching case:
 
 The research of our students and all the game materials are available for download from the link below.
 
-<https://drive.google.com/drive/folders/1FMXMW7dID-DnlyDz6qznyGHzQu9ICnyo?usp=sharing>
-
-Win.rar
-
-<https://drive.google.com/file/d/1_P-h-zGtxwxdcNZ0uWBy5cQvdKU_ksY4/view?usp=sharing>
+<https://drive.google.com/drive/folders/1USWqRCcsnAlvpu3sfLj1Q50yV8Xvo56R?usp=sharing>
 
 We have also documented the process of constructing this teaching case. and submitted it to a journal.
 
